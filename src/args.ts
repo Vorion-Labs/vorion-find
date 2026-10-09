@@ -96,7 +96,7 @@ Flags
 
 What it sends
   See README.md "What it sends" section, or:
-  https://github.com/voriongit/vorion-find#what-it-sends
+  https://github.com/Vorion-Labs/vorion-find#what-it-sends
 
 Device identity
   A random UUID v4 lives at ~/.vorion-find/device-id and is reused across

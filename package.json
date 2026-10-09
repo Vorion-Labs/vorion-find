@@ -7,7 +7,7 @@
   "homepage": "https://aurais.net/find",
   "repository": {
     "type": "git",
-    "url": "https://github.com/voriongit/vorion-find.git"
+    "url": "https://github.com/Vorion-Labs/vorion-find.git"
   },
   "type": "module",
   "bin": {
